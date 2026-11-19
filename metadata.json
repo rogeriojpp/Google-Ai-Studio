@@ -1,0 +1,6 @@
+{
+  "name": "Segurança no Preço Certo — Gestão de O.S.",
+  "description": "Sistema de gestão de Ordens de Serviço para segurança eletrônica (CFTV, controle de acesso, portões, alarmes e interfonia) com assinatura digital e controle de peças.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
